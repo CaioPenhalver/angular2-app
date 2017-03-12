@@ -28,6 +28,7 @@ export class StudentForm{
                                   form.value.address, 
                                   form.value.rg,
                                   form.value.course));
+    form.reset();
     console.log(this.studentsList);
   }
 }
