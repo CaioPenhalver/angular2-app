@@ -1,0 +1,10 @@
+{
+  "students": [
+    { "id": 1, "name": "Aline", "rg":"45784839-1", "address": "Rua consolação, 345", "course": "Java" }, 
+    { "id": 2, "name": "Mario", "rg":"45784839-1", "address": "Rua europa, 234", "course": "Javascript" }, 
+    { "id": 3, "name": "Renata", "rg":"45784839-1", "address": "Alameda sao caetano, 333", "course": "Scala" }, 
+    { "id": 4, "name": "Paola", "rg":"45784839-1", "address": "Av. nações unidas, 5000", "course": "Ruby" }, 
+    { "id": 5, "name": "Lucas", "rg":"45784839-1", "address": "Rua oitava, 785", "course": "Java" }, 
+    { "id": 6, "name": "Otavio", "rg":"45784839-1", "address": "Rua doze, 34", "course": "Javascript" } 
+  ]
+}
